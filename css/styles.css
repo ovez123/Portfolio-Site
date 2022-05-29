@@ -1,0 +1,117 @@
+body
+{
+    margin:0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+h1
+{
+    color:#66BFBF;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size:5.624rem;
+    margin:50px auto 0 auto;
+    line-height:2;
+}
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+.topcon{
+    background-color: #EAF6F6;
+    position:relative;
+    padding-top:200px;
+}
+.midcon{
+    margin-top: 70px;
+    
+}
+
+.botcon{
+   background-color: #66BFBF;
+   width:100%;
+   height:100%;
+   padding:50px;
+}
+
+.pro
+{
+    text-decoration: underline;
+}
+.top-cloud{
+    position:absolute;
+    right:400px;
+    top:150px;
+}
+.bot-cloud{
+    position:absolute;
+    left:250px;
+}
+.skillimg1{
+    width:25%;
+    float:left;
+    margin-right: 30px;
+}
+a{
+    color:#11999E;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+}
+.skillimg2{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+.profile-img{
+    width:200px;
+    height:200px;
+}
+hr{
+    width:5%;
+    border:none;
+    border-top: 7px dotted  #52616B;
+    margin-top:70px;
+}
+.skills{
+    margin-top:70px;
+}
+.contact-me{
+    line-height: 1.5;
+    margin:70px auto 90px auto;
+}
+.btn{
+    color:white;
+    background-color: #11999E;
+    border-radius: 7px;
+    font-size: 20px;
+    padding: 10px 16px 10px 16px;
+    text-decoration: none;
+    width:100%;
+}
+.contact-para{
+    margin-bottom: 40px;
+}
+.copyright-para{
+    color:#EAF6F6;
+}
+.footer-link{
+    text-decoration: none;
+    color:#11999E;
+    margin-right:40px;
+}
+.footer-link:hover{
+    color:#EAF6F6;
+}
+
+
+
+
